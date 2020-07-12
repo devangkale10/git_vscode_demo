@@ -8,3 +8,6 @@ class HelloworldSpider(scrapy.Spider):
     start_urls = ['http://amazon.com/']
 
     def parse(self, response):
+        #for pulling
+        pass
+
